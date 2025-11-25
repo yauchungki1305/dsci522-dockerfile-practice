@@ -2,6 +2,8 @@ name: lab_tues
 channels:
   - conda-forge
 dependencies:
+  - conda
+  - mamba
   - numpy=2.3.5
   - python=3.11
   - pandas=2.3.3
